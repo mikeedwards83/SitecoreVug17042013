@@ -1,0 +1,4 @@
+﻿            var installer = new SitecoreInstaller(config);
+            installer.ConfigurationResolverTaskInstaller = new CustomConfigurationResolverTaskInstaller(config);
+
+		    container.Install(installer);

@@ -1,0 +1,3 @@
+﻿            container.Register(
+                Component.For<IRssService>().ImplementedBy<RssService>().LifestyleTransient()
+                );

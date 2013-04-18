@@ -1,0 +1,11 @@
+Data/diagnostics/
+Data/
+Databases/
+Depends/bin/
+packages/
+Website/sitecore/
+Website/temp/
+Website/bin/
+Website/obj/
+Vug.v11.suo
+Depends/bin_Net4/

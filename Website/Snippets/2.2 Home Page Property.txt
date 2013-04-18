@@ -1,0 +1,2 @@
+﻿        [SitecoreQuery("./News/*/*/*[@@templatename='NewsArticle']", IsRelative = true)]
+        public virtual IEnumerable<NewsArticle> News { get; set; }

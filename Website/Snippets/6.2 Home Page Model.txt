@@ -1,0 +1,2 @@
+﻿        [SitecoreQuery("./Events/*/*/*[@@templatename='Event']", IsRelative = true)]
+        public virtual IEnumerable<EventBase> Events { get; set; }

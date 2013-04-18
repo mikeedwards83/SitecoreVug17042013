@@ -1,0 +1,4 @@
+﻿<div class="hero-unit">
+    <h1><%=Editable(x=>x.Title) %></h1>
+    <%=Model.MainBody %>
+</div>
